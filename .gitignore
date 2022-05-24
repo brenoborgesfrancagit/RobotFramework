@@ -1,11 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/robotframework
-# Edit at https://www.toptal.com/developers/gitignore?templates=robotframework
-
-### robotframework ###
-log.html
-output.xml
-report.html
-selenium-screenshot-*.png
-
 # End of https://www.toptal.com/developers/gitignore/api/robotframework
 # Deixei a propaganda porque achei essa ferramenta interessante
+log.html
+report.html
+output.xml
+selenium-screenshot-*.png
